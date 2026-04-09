@@ -195,9 +195,4 @@ To evaluate overall business performance by analyzing **sales growth, customer c
 
 > AtliQ Hardwares has achieved significant revenue growth; however, the analysis highlights key challenges in profitability, customer concentration, and target alignment. Long-term success will depend on improving cost efficiency, optimizing the product portfolio, and strategically expanding high-margin and high-control channels.
 
----
 
-
-
-If you want next:
-👉 I can convert this into **resume bullet points (this is what gets you shortlisted)**
