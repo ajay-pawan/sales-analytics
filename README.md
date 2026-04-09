@@ -4,6 +4,9 @@
 
 # 🟣 AtliQ Hardwares – End-to-End Business Performance Analysis
 
+<img width="350" height="175" alt="image" src="https://github.com/user-attachments/assets/883bd56c-099f-475f-a8ea-3fd93194aa8e" />
+
+
 ## 🔷 Objective
 
 To evaluate overall business performance by analyzing **sales growth, customer contribution, product performance, and profitability**, and to identify key drivers, risks, and opportunities for strategic decision-making.
